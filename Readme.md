@@ -103,7 +103,8 @@ while True:                                                                     
 
 
 # Screenshot Input
-![Screenshot (56)](https://user-images.githubusercontent.com/123881535/218313558-13d6ea58-0bf5-4a02-bcd4-e73c4c7c3c9c.png)![Screenshot (57)](https://user-images.githubusercontent.com/123881535/218313582-e5a2c317-4146-4627-b457-d475b87022a1.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/123881535/218315621-b46edc72-244c-4a9b-a13a-188cba832124.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/123881535/218315637-2c20acad-e564-418f-a81a-08adf57f2c6f.png)
 
 
 # Screenshot Ouput
