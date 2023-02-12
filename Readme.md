@@ -1,4 +1,14 @@
 # Praktikum5
+
+
+Nama  : Rio Rinto Saki
+
+NIM   : 312210715
+
+Kelas : TI.22.C.9
+
+
+
 # Program Menghitung Nilai Mahasiswa Menggunakan Dictionary
 
 Pada praktek kali ini, saya membuat program menentukan nilai mahasiswa dengan menggunakan Dictionary.
